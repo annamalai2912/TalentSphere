@@ -1,0 +1,26 @@
+Charlie Verma
+Email: charlie.v@email.com | Phone: +91 8888888888 | Chennai, India
+
+Professional Summary:
+Fresh B.Tech graduate in Information Technology from NIT Trichy eager to start a professional career in data science. Strong foundation in math, probability, data analysis, and Python. Experienced in training simple ML models and performing exploratory data analysis.
+
+Education:
+- B.Tech in Information Technology
+  NIT Trichy, Tamil Nadu (Class of 2024)
+
+Technical Skills:
+- Languages: Python, Java, SQL, HTML, CSS
+- Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+- Machine Learning: Linear Regression, Decision Trees, K-Means Clustering
+- Tooling: Git, Jupyter Notebooks, VS Code
+
+Academic Projects:
+Movie Recommendation System (Final Year Project) | NIT Trichy (2023 - 2024)
+- Developed a content-based movie recommendation system using Python and Pandas.
+- Implemented Scikit-learn TF-IDF Vectorizer and Cosine Similarity to calculate movie similarities.
+- Created an interactive web UI using Streamlit to demonstrate movie recommendations.
+
+Customer Segmentation Model | NIT Trichy (2023)
+- Analyzed transaction data of an e-commerce retailer using Pandas.
+- Built a customer clustering model using K-Means in Scikit-learn to segment users into distinct personas.
+- Visualized cluster distributions and customer characteristics using Seaborn.

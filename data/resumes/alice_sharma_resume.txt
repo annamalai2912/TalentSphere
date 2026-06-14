@@ -1,0 +1,28 @@
+Alice Sharma
+Email: alice.sharma@email.com | Phone: +91 9876543210 | Bangalore, India
+
+Professional Summary:
+Passionate Machine Learning Engineer with 3 years of hands-on experience in building AI solutions. Proficient in deep learning and NLP architectures. Adept at fine-tuning transformers, optimizing dense retrieval models, and deploying low-latency endpoints for production.
+
+Education:
+- M.Tech in Computer Science and Engineering
+  IIT Bombay, Mumbai (Class of 2023)
+- B.Tech in Information Technology
+  Delhi Technological University, Delhi (Class of 2021)
+
+Technical Skills:
+- Programming: Python, SQL, C++
+- Deep Learning & NLP: PyTorch, TensorFlow, Transformers, BERT, SpaCy, NLTK, Hugging Face
+- Libraries: NumPy, Pandas, Scikit-learn, OpenCV
+- DevOps & Cloud: Git, GitHub, Docker, FastAPI, AWS (S3, EC2)
+
+Professional Experience:
+Associate ML Engineer | TechCorp, Bangalore (June 2023 - Present)
+- Designed and built a semantic search pipeline for structured data using Sentence-Transformers and BERT, increasing search precision by 22%.
+- Fine-tuned BERT classification models in PyTorch to automate categorization of customer queries.
+- Deployed real-time inference microservices using FastAPI and Docker in AWS, processing 50k+ requests daily with sub-100ms response times.
+- Managed collaborative codebase versions and CI/CD pipelines via Git.
+
+ML Research Intern | AI Labs, Mumbai (July 2022 - May 2023)
+- Evaluated spaCy and custom tokenizers for extracting medical entities from clinical trials data.
+- Prepared training sets and fine-tuned transformers for named entity recognition (NER) models.

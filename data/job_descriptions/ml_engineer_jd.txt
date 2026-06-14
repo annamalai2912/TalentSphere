@@ -1,0 +1,15 @@
+Machine Learning Engineer / Data Scientist
+
+We are seeking a Machine Learning Engineer to join our growing AI team. In this role, you will design, train, and deploy state-of-the-art transformer models for complex text analysis tasks.
+
+Key Responsibilities:
+- Design and implement NLP workflows using spaCy, Hugging Face Transformers, and BERT architectures.
+- Train, evaluate, and fine-tune deep learning models using PyTorch or TensorFlow.
+- Optimize embeddings, semantic search models, and information retrieval pipelines.
+- Create production APIs using FastAPI and containerize applications with Docker.
+- Build automated data processing pipelines and version control systems using Git.
+
+Qualifications:
+- Bachelor's or Master's degree (B.Tech, M.Tech, MS) in Computer Science, AI, or a related quantitative field.
+- 2+ years of professional experience in data science, NLP, or machine learning roles.
+- Expert-level Python programming skills and familiarity with standard packages (Pandas, NumPy, Scikit-learn).

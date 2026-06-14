@@ -1,0 +1,27 @@
+Bob Smith
+Email: bob.smith@email.com | Phone: +1 (555) 123-4567 | San Francisco, CA
+
+Professional Summary:
+Creative and detail-oriented Frontend Developer with 4 years of professional experience building responsive, fast, and accessible web interfaces. Experienced in implementing modern design systems, optimizing web assets, and integrating frontend interfaces with REST and GraphQL APIs.
+
+Education:
+- Bachelor of Computer Applications (BCA)
+  State University, CA (Class of 2021)
+
+Technical Skills:
+- Web Core: HTML5, CSS3, JavaScript (ES6+), TypeScript
+- Libraries & Frameworks: React, Next.js, Vue.js, Angular, Redux, Tailwind CSS, SASS
+- Backend & DB: Node.js, Express.js, MongoDB, Firebase
+- Tools: Git, Webpack, Vite, NPM, Chrome DevTools
+
+Professional Experience:
+Senior UI Engineer | WebStudio, San Francisco (July 2023 - Present)
+- Developed and maintained critical responsive user interfaces using React and Next.js for a high-traffic e-commerce portal.
+- Refactored legacy UI components into reusable React structures, improving code maintainability by 35%.
+- Implemented responsive design grids and animations using Tailwind CSS, boosting mobile engagement by 15%.
+- Integrated state management systems using Redux and managed collaborative code releases via Git.
+
+Web Developer | DevShop, San Jose (June 2021 - June 2023)
+- Built interactive client websites and landing pages using HTML, CSS, and Vue.js.
+- Worked closely with UX/UI designers to translate Figma design mockups into pixel-perfect web interfaces.
+- Handled API integration with Node.js/Express backends.
