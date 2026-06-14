@@ -1,0 +1,22 @@
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Data Uploads (Excluding Mock/Sample Files)
+data/resumes/*
+!data/resumes/alice_sharma_resume.txt
+!data/resumes/bob_smith_resume.txt
+!data/resumes/charlie_verma_resume.txt
+
+data/job_descriptions/*
+!data/job_descriptions/ml_engineer_jd.txt
