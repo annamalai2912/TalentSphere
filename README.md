@@ -1,3 +1,12 @@
+---
+title: TalentSphere AI
+emoji: ✦
+colorFrom: indigo
+colorTo: purple
+sdk: docker
+app_port: 7860
+---
+
 # Intelligent NLP-Driven Candidate Screening and Resume Ranking Framework
 
 An automated HR recruiting pipeline leveraging transformer-based Natural Language Processing (NLP) models to parse resumes, extract key profiles, and semantically rank candidates against job descriptions in real time.
